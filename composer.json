@@ -1,5 +1,5 @@
 {
-    "name": "eisarapp/laravel-gcs-driver",
+    "name": "spatie/laravel-google-cloud-storage",
     "description": "Google Cloud Storage filesystem driver for Laravel",
     "keywords": [
         "spatie",
